@@ -40,25 +40,35 @@ function App() {
       <p>{t.description}</p>
       <h2>{t.projects}</h2>
       <ul>
-        <li>
-          <a
-            href="https://github.com/alejandrozambrano/Labo2_CarsApp"
-            target="_blank"
-            rel="noreferrer"
+       <li>
+        <a
+        href="https://github.com/alejandrozambrano/Labo2_CarsApp"
+        target="_blank"
+        rel="noreferrer"
           >
-            🚗 Labo2_CarsApp – App Android con SQLite y cámara
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://github.com/alejandrozambrano/Fundamentos-de-HTML"
-            target="_blank"
-            rel="noreferrer"
-          >
-            🧱 Fundamentos de HTML – Proyecto final
-          </a>
-        </li>
-      </ul>
+          🚗 Labo2_CarsApp – App Android con SQLite y cámara
+        </a>
+      </li>
+      <li>
+      <a
+      href="https://github.com/alejandrozambrano/Fundamentos-de-HTML"
+      target="_blank"
+      rel="noreferrer"
+      >
+      🧱 Fundamentos de HTML – Proyecto final
+      </a>
+      </li>
+      <li>
+      <a
+      href="https://github.com/alejandrozambrano/streaming-site"
+      target="_blank"
+      rel="noreferrer"
+      >
+      🎥 Streaming Site – React, Node.js y MongoDB
+      </a>
+      </li>
+    </ul>
+
       <h2>{t.contact}</h2>
       <p>
         📧{" "}
